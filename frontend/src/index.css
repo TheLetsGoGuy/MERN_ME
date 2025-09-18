@@ -1,0 +1,16 @@
+.card{
+  background-color: aliceblue;
+  background-image: url("C:\Users\Asus\OneDrive\Documents\Frontend\Project\frontend\src\assets\img\dhgug9k-733dd7f1-d9b5-4159-a104-630bd9a2c2a4.jpg");
+  background-size: cover;
+  color: rgb(225,227,240);
+  width: 400px;
+  height: 300px;
+  border-radius: 15px;
+  padding: 10px;
+  background-repeat: no-repeat;
+  margin: 5px;
+  text-align: center;
+  font-size: x-large;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+}

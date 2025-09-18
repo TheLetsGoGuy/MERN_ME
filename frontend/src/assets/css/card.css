@@ -1,0 +1,16 @@
+.card{
+  background-color: aliceblue;
+  background-image: url('C:\Users\Asus\OneDrive\Documents\Frontend\Project\frontend\src\assets\img\fusion.jpg');
+  background-size: cover;
+  color: blue;
+  width: 600px;
+  height: 350px;
+  border-radius: 15px;
+  padding: 10px;
+  background-repeat: no-repeat;
+  margin: 5px;
+  text-align: center;
+  font-size: x-large;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+}
